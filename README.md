@@ -1,10 +1,10 @@
-# 📰 Fake News Detection using Machine Learning
+# Fake News Detection using Machine Learning
 
 This project builds a machine learning model to detect fake news using text preprocessing techniques and a logistic regression classifier. The goal is to distinguish between real and fake news articles based on their text content.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source**: [Fake News Dataset – Google Drive](https://drive.google.com/file/d/1Ol2Y21VlfNyzlS7nAdku0e4uaOglEnn8/view?usp=drive_link)
 - **Features**:
@@ -15,7 +15,7 @@ This project builds a machine learning model to detect fake news using text prep
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas & NumPy  
@@ -26,7 +26,7 @@ This project builds a machine learning model to detect fake news using text prep
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 1. Import dependencies and load the dataset  
 2. Preprocess the text (stopwords removal, stemming, etc.)  
@@ -38,7 +38,7 @@ This project builds a machine learning model to detect fake news using text prep
 
 ---
 
-## ✅ Results
+## Results
 
 - **Model**: Logistic Regression  
 - **Preprocessing**: Stopword removal, stemming, TF-IDF vectorization  
@@ -46,7 +46,7 @@ This project builds a machine learning model to detect fake news using text prep
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Clone the repo or download the notebook.  
 2. Make sure the dataset is linked correctly.  
@@ -54,13 +54,13 @@ This project builds a machine learning model to detect fake news using text prep
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Try more advanced models like Naive Bayes, Random Forest, or LSTM  
 - Combine the ```author``` and ```title``` columns with ```text``` column into a single input field before preprocessing to improve model accuracy
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - NLTK & Scikit-learn communities
